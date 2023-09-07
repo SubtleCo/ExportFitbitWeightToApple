@@ -1,4 +1,4 @@
-# ExportFitbitWeightToApple
+# Export Fitbit Weight To Apple Health
 A go program that converts your Fitbit data dump into a CSV for Apple Health upload
 
 1. [Download your data from Fitbit](https://help.fitbit.com/articles/en_US/Help_article/1133)
